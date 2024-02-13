@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bradley Mark Gerarcas</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
-- 🌱 I’m currently learning **JavaScript,ReactJS,Java for Web Development**
 
 - 👨‍💻 All of my projects are available at [https://braddevsu.netlify.app/](https://braddevsu.netlify.app/)
 
